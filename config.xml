@@ -13,6 +13,8 @@
       Ameet Rahane 
    </author>
    
+   <access origin="http://code.jquery.com" subdomains="true" />
+
    <preference name = "permissions" value = "none"/>
    
    <icon src = "res/icon/android/drawable-ldpi/tp_icon.png" 
